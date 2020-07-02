@@ -1,4 +1,4 @@
-#My Landing Page
+# My Landing Page
 
 The HTML and CSS of the project was modified from the starter project provided by udacity
 as it wasn't the main focus of the project.
