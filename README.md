@@ -13,3 +13,7 @@ the project also allows you to know which section you are currently viewing usin
 fixed div which carries the number of the section currently in view.
 
 I also added a functionality to hide this div if the user found it disturbing.
+
+# Installation
+
+clone the repository and open the index.html file
